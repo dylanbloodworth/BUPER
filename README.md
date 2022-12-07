@@ -4,4 +4,4 @@ This directory is the work I completed as an undergraduate reseracher during my 
 
 This work was completed under the advice of Dr. Manher Jariwala.
 
-Here is the <a href="Dylan_PERC_Poster_v3.pptx">poster</a> that was presented at the 2021 PERC poster presentation.
+Here is the <a href="Dylan_PERC_Poster_v3.pdf">poster</a> that was presented at the 2021 PERC poster presentation.
